@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="245" viewBox="0 0 900 245" role="img" aria-label="42 cursus journey: Milestone 0 to 3 completed, Milestone 4 in progress">
+<style>
+.ms{font:700 17px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;fill:#e6edf3}
+.st{font:700 11px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif;letter-spacing:1.2px}
+.pj{font:500 14px ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,monospace;fill:#e6edf3}
+.num{font:800 20px -apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}
+.pulse{animation:p 2s ease-in-out infinite}@keyframes p{0%,100%{opacity:.25}50%{opacity:.8}}
+</style>
+<line x1="114.0" y1="56" x2="246.0" y2="56" stroke="#3BB4D4" stroke-width="4" stroke-linecap="round"/>
+<line x1="294.0" y1="56" x2="426.0" y2="56" stroke="#3BB4D4" stroke-width="4" stroke-linecap="round"/>
+<line x1="474.0" y1="56" x2="606.0" y2="56" stroke="#3BB4D4" stroke-width="4" stroke-linecap="round"/>
+<line x1="654.0" y1="56" x2="786.0" y2="56" stroke="#f5a623" stroke-width="4" stroke-linecap="round" stroke-dasharray="6 6"/>
+<rect x="10.0" y="132" width="160.0" height="105" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="90.0" cy="56" r="24" fill="#3BB4D4"/>
+<text x="90.0" y="63" text-anchor="middle" class="num" fill="#0d1117">0</text>
+<text x="90.0" y="104" text-anchor="middle" class="ms">Milestone 0</text>
+<text x="90.0" y="122" text-anchor="middle" class="st" fill="#3BB4D4">COMPLETED</text>
+<text x="90.0" y="162" text-anchor="middle" class="pj">piscine</text>
+<text x="90.0" y="190" text-anchor="middle" class="pj">libft</text>
+<rect x="190.0" y="132" width="160.0" height="105" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="270.0" cy="56" r="24" fill="#3BB4D4"/>
+<text x="270.0" y="63" text-anchor="middle" class="num" fill="#0d1117">1</text>
+<text x="270.0" y="104" text-anchor="middle" class="ms">Milestone 1</text>
+<text x="270.0" y="122" text-anchor="middle" class="st" fill="#3BB4D4">COMPLETED</text>
+<text x="270.0" y="162" text-anchor="middle" class="pj">ft_printf</text>
+<text x="270.0" y="190" text-anchor="middle" class="pj">get_next_line</text>
+<text x="270.0" y="218" text-anchor="middle" class="pj">push_swap</text>
+<rect x="370.0" y="132" width="160.0" height="105" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="450.0" cy="56" r="24" fill="#3BB4D4"/>
+<text x="450.0" y="63" text-anchor="middle" class="num" fill="#0d1117">2</text>
+<text x="450.0" y="104" text-anchor="middle" class="ms">Milestone 2</text>
+<text x="450.0" y="122" text-anchor="middle" class="st" fill="#3BB4D4">COMPLETED</text>
+<text x="450.0" y="162" text-anchor="middle" class="pj">python_module</text>
+<text x="450.0" y="190" text-anchor="middle" class="pj">A-Maze-ing</text>
+<text x="450.0" y="218" text-anchor="middle" class="pj">born2beroot</text>
+<rect x="550.0" y="132" width="160.0" height="105" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="630.0" cy="56" r="24" fill="#3BB4D4"/>
+<text x="630.0" y="63" text-anchor="middle" class="num" fill="#0d1117">3</text>
+<text x="630.0" y="104" text-anchor="middle" class="ms">Milestone 3</text>
+<text x="630.0" y="122" text-anchor="middle" class="st" fill="#3BB4D4">COMPLETED</text>
+<text x="630.0" y="162" text-anchor="middle" class="pj">Call Me Maybe</text>
+<text x="630.0" y="190" text-anchor="middle" class="pj">Fly-in</text>
+<text x="630.0" y="218" text-anchor="middle" class="pj">Codexion</text>
+<rect x="730.0" y="132" width="160.0" height="105" rx="10" fill="#161b22" stroke="#30363d"/>
+<circle cx="810.0" cy="56" r="31" fill="none" stroke="#f5a623" stroke-width="2" class="pulse"/>
+<circle cx="810.0" cy="56" r="24" fill="none" stroke="#f5a623" stroke-width="3" stroke-dasharray="6 4"/>
+<text x="810.0" y="63" text-anchor="middle" class="num" fill="#f5a623">4</text>
+<text x="810.0" y="104" text-anchor="middle" class="ms">Milestone 4</text>
+<text x="810.0" y="122" text-anchor="middle" class="st" fill="#f5a623">IN PROGRESS</text>
+<text x="810.0" y="162" text-anchor="middle" class="pj">RAG</text>
+<text x="810.0" y="190" text-anchor="middle" class="pj">NetPractice</text>
+</svg>
