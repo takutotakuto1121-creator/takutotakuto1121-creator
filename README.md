@@ -33,7 +33,7 @@ class TakutoSugimoto:
 
 - 🎓 **早稲田大学** 人間科学部 人間情報科学科に在籍
 - 🏫 **42 Tokyo** で C / Python を軸に、低レイヤからアルゴリズム、Linux、ネットワーク、LLM まで幅広く学習中
-- 📝 学んだことは各リポジトリの README / `docs/` に日本語でまとめています
+- 📝 学んだことは各リポジトリの README にまとめています
 
 ## 🛠 Tech Stack
 
@@ -45,9 +45,9 @@ class TakutoSugimoto:
 
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | C, Python, Swift, Shell Script |
+| **Languages** | C, Python|
 | **Topics** | メモリ管理 / システムコール / ソートアルゴリズム / グラフ探索 / TCP/IP / LLM |
-| **Environment** | Linux (Debian), Git, Make, VS Code |
+| **Environment** | Linux, Git, Make, VS Code |
 
 ## 🗺 42 Journey
 
@@ -57,6 +57,8 @@ class TakutoSugimoto:
     <img width="100%" src="assets/journey-light.svg" alt="42 Journey: Milestone 0〜3 完了、Milestone 4 進行中">
   </picture>
 </p>
+
+42Tokyoの課題一覧です。AIの使用は控えており、コードの大部分が手書きです。
 
 > 各 Milestone をクリックすると、プロジェクトの詳細が開きます 👇
 
