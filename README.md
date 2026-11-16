@@ -142,19 +142,19 @@ class TakutoSugimoto:
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takutotakuto1121-creator&theme=github_dark">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takutotakuto1121-creator&theme=github" alt="GitHub stats">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takutotakuto1121-creator&v=20261116&theme=github_dark">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=takutotakuto1121-creator&v=20261116&theme=github" alt="GitHub stats">
   </picture>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takutotakuto1121-creator&theme=github_dark">
-    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takutotakuto1121-creator&theme=github" alt="Top languages by repo">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takutotakuto1121-creator&v=20261116&theme=github_dark">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=takutotakuto1121-creator&v=20261116&theme=github" alt="Top languages by repo">
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=takutotakuto1121-creator&theme=github-dark-blue&hide_border=true&background=00000000">
-    <img src="https://streak-stats.demolab.com?user=takutotakuto1121-creator&hide_border=true&background=00000000" alt="GitHub streak">
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=takutotakuto1121-creator&v=20261116&theme=github-dark-blue&hide_border=true&background=00000000">
+    <img src="https://streak-stats.demolab.com?user=takutotakuto1121-creator&v=20261116&hide_border=true&background=00000000" alt="GitHub streak">
   </picture>
 </p>
 
