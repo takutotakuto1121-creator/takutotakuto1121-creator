@@ -125,7 +125,7 @@ class TakutoSugimoto:
 42 の課題以外で取り組んだハッカソン・個人開発のプロジェクトです。クリックで開きます 👇
 
 <details>
-<summary><b>🌱 Other Projects</b> — <code>ツメショー (SPAJAM2026)</code> · <code>MAPF</code> · <code>のむしょう</code> · <code>deep-learning-from-scratch</code></summary>
+<summary><b>🌱 Other Projects</b> — <code>ツメショー (SPAJAM2026)</code> · <code>MAPF</code> · <code>のむしょう</code> · <code>deep-learning-from-scratch</code> · <code>箱庭</code></summary>
 <br>
 
 | Project | Description | Key Topics |
@@ -134,6 +134,7 @@ class TakutoSugimoto:
 | [**MAPF**](https://github.com/takutotakuto1121-creator/-MAPF-) | マルチエージェント経路探索（MAPF）の学習・実験用フレームワーク。A* / CBS / ECBS / PIBT / LaCAM / LNS など 10 種のアルゴリズムを標準ライブラリのみで実装し、CLI で切り替えて比較できる | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 探索アルゴリズム / 論文実装 / pytest |
 | [**のむしょう**](https://github.com/takutotakuto1121-creator/discord-bot-nomusyo) | 毎朝 7:00 にニュース 10 件を Claude で要約して Discord に投稿する Bot。GitHub Actions の cron で動くサーバーレス構成 | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) RSS / LLM 要約 / Webhook |
 | [**deep-learning-from-scratch**](https://github.com/takutotakuto1121-creator/deep-learning-from-scratch) | 『ゼロから作る Deep Learning』を参考に、パーセプトロンからニューラルネットワークまでを NumPy で実装。MNIST の推論まで | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ニューラルネットワーク / 活性化関数 |
+| [**箱庭 (hakoniwa)**](https://github.com/takutotakuto1121-creator/hakoniwa) | ニューラルネットの脳を持つ生き物たちが生まれ、食べ、戦い、増え、世代を重ねて行動を自分で獲得していく様子を眺める macOS アプリ。行動ルールは書かず、物理・代謝・感覚器・環境だけを決めて、行動はすべて脳の重みの進化から生まれる。世代対決・デモモード・種の図鑑・タイムラプス・スクリーンセーバーつき | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) 人工生命 / ニューロエボリューション / シミュレーション |
 
 </details>
 
